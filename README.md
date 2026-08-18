@@ -5,7 +5,7 @@ Junior Software Engineer | Full Stack Developer | Software Engineering Student
 </h3>
 
 <p align="center">
-  <a href="https://queleminetech.it.com">
+  <a href="https://quelemine.info">
     <img src="https://img.shields.io/badge/Portfolio-queleminetech.it.com-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/">
