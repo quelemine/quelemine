@@ -5,8 +5,8 @@ Junior Software Engineer | Full Stack Developer | Software Engineering Student
 </h3>
 
 <p align="center">
-  <a href="https://quelemine.info">
-    <img src="https://img.shields.io/badge/Portfolio-queleminetech.it.com-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://queleminetech.info">
+    <img src="https://img.shields.io/badge/Portfolio-queleminetech.info-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -60,7 +60,7 @@ Currently pursuing Software Engineering studies with interests in software devel
 
 **BYU Pathway Worldwide – Ensign College**
 
-Studying Information Technology with a focus on developing practical technical, programming, and professional skills.
+Studying Information Technology - System Administration with a focus on developing practical technical, programming, and professional skills.
 
 ---
 
