@@ -1,9 +1,10 @@
 <p align="center">
   <img 
-  src="./isaac-profile.jpeg"
-  width="180"
-  height="180"
-  alt="Isaac L. Quelemine"
+    src="./isaac-profile.jpeg"
+    width="200"
+    height="200"
+    alt="Isaac L. Quelemine"
+    style="border-radius:50%; object-fit:cover;"
   />
 </p>
 <h1 align="center">Hi 👋, I'm Isaac L. Quelemine</h1>
