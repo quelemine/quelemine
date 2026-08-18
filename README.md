@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+  src="./isaac-profile.jpeg"
+  width="180"
+  height="180"
+  alt="Isaac L. Quelemine"
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Isaac L. Quelemine</h1>
 
 <h3 align="center">
