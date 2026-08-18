@@ -359,7 +359,7 @@ I'm always interested in connecting with:
 
 <p align="left">
 
-<a href="https://queleminetech.it.com" target="_blank">
+<a href="https://queleminetech.info" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Website-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
