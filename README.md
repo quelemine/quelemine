@@ -325,7 +325,7 @@ I enjoy working with people from different backgrounds and contributing effectiv
 
 ## 💻 Full Stack Developer Portfolio
 
-### 👉 https://queleminetech.it.com
+### 👉 https://queleminetech.info
 
 My portfolio showcases my journey as a software engineer, including:
 
